@@ -1,0 +1,17 @@
+C:\Users\marly\Desktop\Projetos .NET\Thoughtful\Thoughtful.Dal\bin\Debug\net6.0\Thoughtful.Dal.deps.json
+C:\Users\marly\Desktop\Projetos .NET\Thoughtful\Thoughtful.Dal\bin\Debug\net6.0\Thoughtful.Dal.runtimeconfig.json
+C:\Users\marly\Desktop\Projetos .NET\Thoughtful\Thoughtful.Dal\bin\Debug\net6.0\Thoughtful.Dal.dll
+C:\Users\marly\Desktop\Projetos .NET\Thoughtful\Thoughtful.Dal\bin\Debug\net6.0\ref\Thoughtful.Dal.dll
+C:\Users\marly\Desktop\Projetos .NET\Thoughtful\Thoughtful.Dal\bin\Debug\net6.0\Thoughtful.Dal.pdb
+C:\Users\marly\Desktop\Projetos .NET\Thoughtful\Thoughtful.Dal\bin\Debug\net6.0\Thoughtful.Domain.dll
+C:\Users\marly\Desktop\Projetos .NET\Thoughtful\Thoughtful.Dal\bin\Debug\net6.0\Thoughtful.Domain.pdb
+C:\Users\marly\Desktop\Projetos .NET\Thoughtful\Thoughtful.Dal\obj\Debug\net6.0\Thoughtful.Dal.csproj.AssemblyReference.cache
+C:\Users\marly\Desktop\Projetos .NET\Thoughtful\Thoughtful.Dal\obj\Debug\net6.0\Thoughtful.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marly\Desktop\Projetos .NET\Thoughtful\Thoughtful.Dal\obj\Debug\net6.0\Thoughtful.Dal.AssemblyInfoInputs.cache
+C:\Users\marly\Desktop\Projetos .NET\Thoughtful\Thoughtful.Dal\obj\Debug\net6.0\Thoughtful.Dal.AssemblyInfo.cs
+C:\Users\marly\Desktop\Projetos .NET\Thoughtful\Thoughtful.Dal\obj\Debug\net6.0\Thoughtful.Dal.csproj.CoreCompileInputs.cache
+C:\Users\marly\Desktop\Projetos .NET\Thoughtful\Thoughtful.Dal\obj\Debug\net6.0\Thoughtful.Dal.csproj.CopyComplete
+C:\Users\marly\Desktop\Projetos .NET\Thoughtful\Thoughtful.Dal\obj\Debug\net6.0\Thoughtful.Dal.dll
+C:\Users\marly\Desktop\Projetos .NET\Thoughtful\Thoughtful.Dal\obj\Debug\net6.0\ref\Thoughtful.Dal.dll
+C:\Users\marly\Desktop\Projetos .NET\Thoughtful\Thoughtful.Dal\obj\Debug\net6.0\Thoughtful.Dal.pdb
+C:\Users\marly\Desktop\Projetos .NET\Thoughtful\Thoughtful.Dal\obj\Debug\net6.0\Thoughtful.Dal.genruntimeconfig.cache

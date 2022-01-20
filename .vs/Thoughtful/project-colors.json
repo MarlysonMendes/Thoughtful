@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "443ab186-e4b3-4f1c-ad56-ad748e88ff0f": {
+      "ProjectGuid": "443ab186-e4b3-4f1c-ad56-ad748e88ff0f",
+      "DisplayName": "Thoughtful.Api",
+      "ColorIndex": 0
+    },
+    "70fc0787-7074-40b5-86d7-bcc55829fde5": {
+      "ProjectGuid": "70fc0787-7074-40b5-86d7-bcc55829fde5",
+      "DisplayName": "Thoughtful.Domain",
+      "ColorIndex": 1
+    },
+    "612190fc-c4d8-4770-ba67-1718e68dc39e": {
+      "ProjectGuid": "612190fc-c4d8-4770-ba67-1718e68dc39e",
+      "DisplayName": "Thoughtful.Dal",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
