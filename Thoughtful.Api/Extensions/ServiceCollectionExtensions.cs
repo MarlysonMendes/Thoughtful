@@ -13,6 +13,8 @@ namespace Thoughtful.Api.Extensions
 
             builder.Services.AddDbContext<ThoughtfulDbContext>(opt =>
                 opt.UseSqlServer(builder.Configuration.GetConnectionString("Default")));
+            builder.Services.AddMediatR(typeof(Program));
+            builder.Services.AddAutoMapper(typeof(Program));
 
             return services;
         }
