@@ -62,3 +62,7 @@ C:\Users\marly\Desktop\Projetos .NET\Thoughtful\Thoughtful.Api\obj\Debug\net6.0\
 C:\Users\marly\Desktop\Projetos .NET\Thoughtful\Thoughtful.Api\obj\Debug\net6.0\ref\Thoughtful.Api.dll
 C:\Users\marly\Desktop\Projetos .NET\Thoughtful\Thoughtful.Api\obj\Debug\net6.0\Thoughtful.Api.pdb
 C:\Users\marly\Desktop\Projetos .NET\Thoughtful\Thoughtful.Api\obj\Debug\net6.0\Thoughtful.Api.genruntimeconfig.cache
+C:\Users\marly\Desktop\Projetos .NET\Thoughtful\Thoughtful.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\marly\Desktop\Projetos .NET\Thoughtful\Thoughtful.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\marly\Desktop\Projetos .NET\Thoughtful\Thoughtful.Api\bin\Debug\net6.0\MediatR.dll
+C:\Users\marly\Desktop\Projetos .NET\Thoughtful\Thoughtful.Api\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
